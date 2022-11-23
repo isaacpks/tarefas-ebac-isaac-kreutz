@@ -1,0 +1,80 @@
+1.gato mordendo a perna;
+2.se dormir mais
+3.	retirar gato do quarto
+4.se acordar
+5.	acariciar gato
+6.	retirar coberto de cima do corpo
+7.	espreguiçar
+8.	levantar da cama
+9.	calçar chinelo
+10.	ir em direção a porta
+11.	girar maçaneta 180°
+12.	entrar na sala
+13.	ir em direção a porta
+14.	girar maçaneta 180°
+15.	entrar na cozinha
+16.	se tomar água	
+17.		ir em direção geladeira
+18.		abrir geladeira
+19.		pegar garrafa com água
+20.		tomar
+21.		deixar na geladeira garra com água
+22.		fechar geladeira
+23.	se dar comida pro gato
+24.		ir em direção pote guarda ração
+25.		levantar tampa pote guarda ração
+26.		pegar pote pega ração
+27.		servir ração tigela ração com pote pega ração
+28.		deixar pote pegação em pote guarda ração
+29.		fechar pote ração
+30.	sair cozinha
+31.	entrar sala
+32.	ir direção porta
+33.	girar maçaneta 180°
+34.	entrar banheiro
+35.	abrir porta armário
+36.	pegar toalha de banho
+37.	fecha porta armário
+38.	deixar toalha de banho em porta toalha de banho
+39	ir para box
+40.	abrir porta box
+41.	abrir torneira choveiro
+42.	ir para baixo do choveiro
+43.	fechar porta box
+44.	tomar banho
+45.	desligar choveiro
+46.	abrir porta box
+47.	pegar toalha de banho
+48.	se secar
+49.	pegar escova de dente
+50.	pegar pasta de dente
+51.	por pasta de dente na escova de dente
+52.	guardar pasta de dente no suporte
+53.	escovar dente
+54.	pegar toalha de rosto
+55.	se secar
+56.	estender toalha de rosto
+57.	estender toalha de banho
+58.	guardar escova de dente no suporte
+59.	ir para sala
+60.	ir para quarto
+61.	ir para roupeira
+62.	abrir roupeira
+63.	escolher roupa
+64.	pegar roupa
+65.	por roupa
+66.	pegar mochila de trabalho
+67.	ir para sala
+68.	ir para sapateira
+69.	escolher tenis
+70.	pegar tenis
+71.	calçar tenis
+72. 	pegar chave
+73.	inserir na porta
+74.	girar chave 360°
+75.	girar maçaneta 180°
+76. 	retirar chave da porta
+77.	sair para corredor
+78.	fechar porta
+79.	inserir chave na porta
+80.	girar chave 360°
